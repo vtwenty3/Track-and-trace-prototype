@@ -7,12 +7,12 @@ A visit occurs when a user checks in at a particular location. Each visit record
 The system also allows the creation of locations (shops, cafes etc).
 
 ### Features:
-1.     Add a new individual.
-2.     Add a new location
-3.     Record the visit of an individual to a location
-4.     Record a contact between two individuals
-5.     Generate a list of all the telephone numbers of all individuals who have been contacts of a specified individual after a specified date and time
-6.     Generate a list of telephone numbers of all individuals who visited a location between two dates and times
+1. Add a new individual.
+2. Add a new location
+3. Record the visit of an individual to a location
+4. Record a contact between two individuals
+5. Generate a list of all the telephone numbers of all individuals who have been contacts of a specified individual after a specified date and time
+6. Generate a list of telephone numbers of all individuals who visited a location between two dates and times
 
 Users and locations are written to, and read from a .CSV file.
 
