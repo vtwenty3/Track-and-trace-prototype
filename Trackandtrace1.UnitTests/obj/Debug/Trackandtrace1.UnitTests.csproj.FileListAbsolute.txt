@@ -1,0 +1,2 @@
+C:\Users\twenty3\source\repos\Trackandtrace1 - final 1.1Add Commends!!! - Copy\Trackandtrace1.UnitTests\obj\Debug\Trackandtrace1.UnitTests.csprojAssemblyReference.cache
+C:\Users\twenty3\source\repos\Trackandtrace1 - final 1.1Add Commends!!! - Copy\Trackandtrace1.UnitTests\obj\Debug\Trackandtrace1.UnitTests.csproj.CoreCompileInputs.cache
